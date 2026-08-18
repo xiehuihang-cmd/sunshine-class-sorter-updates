@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.1.0
 files:
-  - url: 阳光分班系统 Setup 1.0.0.exe
-    sha512: YrPdsaanhyqHt+UJQ9ZVM1HWOSFaA9BEFPdqupg7VfUZb0DMFSh0SAS1S7q6QM5DwdmqHwr6VQeFGK5DXfZVzw==
-    size: 82776748
-path: 阳光分班系统 Setup 1.0.0.exe
-sha512: YrPdsaanhyqHt+UJQ9ZVM1HWOSFaA9BEFPdqupg7VfUZb0DMFSh0SAS1S7q6QM5DwdmqHwr6VQeFGK5DXfZVzw==
-releaseDate: '2026-08-18T05:38:55.678Z'
+  - url: 阳光分班系统 Setup 1.1.0.exe
+    sha512: 20jokrv1J9AeoLxAaKNZHNnn7ZUJFl41JTTqhQFpt+Dq+PnEkAYGeDpxG/fDSkeb9RWRCJckEiU1BulC6qLXUQ==
+    size: 83112100
+path: 阳光分班系统 Setup 1.1.0.exe
+sha512: 20jokrv1J9AeoLxAaKNZHNnn7ZUJFl41JTTqhQFpt+Dq+PnEkAYGeDpxG/fDSkeb9RWRCJckEiU1BulC6qLXUQ==
+releaseDate: '2026-08-18T13:06:17.303Z'
